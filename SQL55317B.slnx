@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Default" />
+    <Platform Name="Default" />
+  </Configurations>
+  <Project Path="Mod03/Mod03.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="Mod04/Mod04.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="Mod05/Mod05.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="Mod06/Mod06.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+</Solution>
