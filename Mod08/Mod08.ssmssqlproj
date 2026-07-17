@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Mod04">
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Mod08">
   <Items>
     <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="VIVOBOOK:Vivobook\Victor">
-          <Created>2026-07-14T20:07:21.0984789-06:00</Created>
+          <Created>2026-07-16T20:21:04.1703485-06:00</Created>
           <Type>SQL</Type>
           <Server>VIVOBOOK</Server>
           <UserName />
@@ -26,6 +26,18 @@
           <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery11.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery11.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery2.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
@@ -62,6 +74,18 @@
           <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery9.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

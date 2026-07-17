@@ -1,0 +1,7 @@
+USE AdventureWorksLT2025;
+GO
+
+-- CORRIJE LA SIGUIENTE INSTRUCCIÓN
+
+EXEC SalesLT.uspCosnultarXML
+
