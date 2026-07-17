@@ -19,4 +19,8 @@
     <Platform Project="?" />
     <Build Project="false" />
   </Project>
+  <Project Path="Mod07/Mod07.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
 </Solution>

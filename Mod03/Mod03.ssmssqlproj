@@ -21,29 +21,35 @@
     </LogicalFolder>
     <LogicalFolder Name="Consultas" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery2.sql">
+        <FileNode Name="10 Queries basicos de Product.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2.sql</FullPath>
+          <FullPath>10 Queries basicos de Product.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery3.sql">
+        <FileNode Name="15 uso de INTO en SELECT.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery3.sql</FullPath>
+          <FullPath>15 uso de INTO en SELECT.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery4.sql">
+        <FileNode Name="20 Tratamiento de NULL.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery4.sql</FullPath>
+          <FullPath>20 Tratamiento de NULL.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery5.sql">
+        <FileNode Name="23 Usar COALESCE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery5.sql</FullPath>
+          <FullPath>23 Usar COALESCE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25 usar SP_HELP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VIVOBOOK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25 usar SP_HELP.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery6.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VIVOBOOK:True</AssociatedConnectionMoniker>
